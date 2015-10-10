@@ -3,5 +3,8 @@
   "version": "0.1.0",
   "description": "For when a man's gotta start a Javascript project.",
   "author": "phantummm",
-  "devDependencies": {}
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
